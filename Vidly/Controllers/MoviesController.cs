@@ -25,9 +25,7 @@ namespace Vidly.Controllers
                 Movie = movie,
                 Customers = customers
 
-            };
-            var wtf = "wtf!";
-            var test = "test";
+            };           
             //var viewResult = new ViewResult();
             //viewResult.ViewData.Model;
 
